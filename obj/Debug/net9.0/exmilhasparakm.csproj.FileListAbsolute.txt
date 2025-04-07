@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\bin\Debug\net9.0\exmilhasparakm.exe
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\bin\Debug\net9.0\exmilhasparakm.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\bin\Debug\net9.0\exmilhasparakm.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\bin\Debug\net9.0\exmilhasparakm.dll
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\bin\Debug\net9.0\exmilhasparakm.pdb
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\exmilhasparakm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\exmilhasparakm.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\exmilhasparakm.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\exmilhasparakm.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\exmilhasparakm.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\exmilhasparakm.dll
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\refint\exmilhasparakm.dll
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\exmilhasparakm.pdb
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\exmilhasparakm.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista3\exmilhasparakm\obj\Debug\net9.0\ref\exmilhasparakm.dll
